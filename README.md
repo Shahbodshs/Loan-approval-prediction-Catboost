@@ -22,4 +22,4 @@ If you have any questions, suggestions, or feedback, please leave a comment or e
 
 ## Updates
 
-I'll add updates of the model here if any are committed.
+I'll add updates of the model here if any were made.
