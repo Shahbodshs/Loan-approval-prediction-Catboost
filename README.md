@@ -6,6 +6,8 @@ This project aims to predict loan approval using **CatBoost** combined with **ED
 
 The final model achieves strong performance in terms of both precision and recall, even for the minority class.
 
+The code is provided in a branch called "code". 
+
 ## Model Results
 
 The model achieved a high **Accuracy Score** of **0.948**, with a **ROC-AUC Score** of **0.968**, which shows the model's excellent ability to distinguish between the two classes. Precision and recall scores for both classes are strong, with the model doing particularly well on the majority class, and still maintaining good performance on the minority class (loan approvals).
